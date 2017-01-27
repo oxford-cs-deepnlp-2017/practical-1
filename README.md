@@ -4,7 +4,7 @@ For this practical, you'll be provided with a partially-complete IPython noteboo
 We will be training word2vec models on TED Talk and Wikipedia data, using the word2vec implementation included in the Python package `gensim`. After training the models, we will analyze and visualize the learned embeddings.
 
 ## Setup and installation
-On a lab workstation, clone the practical repository and run the `install-python.sh` shell script in a terminal to install Anaconda with Python 3, and the packages required for this practical.
+On a lab workstation, clone the practical repository and run the `. install-python.sh` shell script in a terminal to install Anaconda with Python 3, and the packages required for this practical.
 
 Run `ipython notebook` in the repository directory and open the `practical.ipynb` notebook in your browser.
 
