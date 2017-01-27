@@ -1,4 +1,6 @@
 # Practical 1: word2vec
+[Brendan Shillingford, Yannis Assael, Chris Dyer]
+
 For this practical, you'll be provided with a partially-complete IPython notebook, an interactive web-based Python computing environment that allows us to mix text, code, and interactive plots.
 
 We will be training word2vec models on TED Talk and Wikipedia data, using the word2vec implementation included in the Python package `gensim`. After training the models, we will analyze and visualize the learned embeddings.
